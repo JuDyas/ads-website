@@ -3,6 +3,9 @@
   <header>
     <h1>Header</h1>
     <nav>
+      <router-link to="/">Home </router-link>
+      <router-link to="/UserProfile">Profile </router-link>
+      <router-link to="/CategoryAd">Category </router-link>
       <!-- Добавьте дополнительные ссылки здесь -->
     </nav>
   </header>

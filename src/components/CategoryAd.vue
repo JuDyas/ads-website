@@ -1,13 +1,13 @@
 <!-- src/components/HomeView.vue -->
 <template>
   <div>
-    <h1>Profile</h1>
+    <h1>Category</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'UserProfile'
+  name: 'CategoryAd'
 }
 </script>
 
